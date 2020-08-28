@@ -1,2 +1,2 @@
-
-var name: String = "太郎"
+//宮澤です
+var name: String = "miyazawa"
