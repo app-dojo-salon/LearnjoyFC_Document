@@ -7,4 +7,9 @@ var age: Int = 21
 //メンバー
 enum learnjoyFC {
     case nekokichi
+    case kodou
+    case shiratori
+    case Torishima
+    case miyazawa
+    case takuma
 }
