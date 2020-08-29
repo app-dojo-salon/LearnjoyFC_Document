@@ -17,3 +17,5 @@ enum LearnJoyFC {
 // Instance
 let learnJoyFC = LearnJoyFC()
 print(learnJoyFC.nekokichi)
+
+//どなたレビューをお願いします！
