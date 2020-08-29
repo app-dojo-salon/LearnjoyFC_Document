@@ -13,3 +13,5 @@ enum learnjoyFC {
     case miyazawa
     case takuma
 }
+
+//こちらはmaster
