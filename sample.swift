@@ -46,8 +46,14 @@ func display() {
  - プル
  
  ** 資料 **
+ //「サルでも分かるGit入門」が分からなかった猿以下デザイナが解説するGitのしくみ
  - https://note.com/echa/n/nbc3fd0ba833a
+ // GithubでのWeb上からのマージの仕方3種とその使いどころ
  - https://qiita.com/ko-he-8/items/94e872f2154829c868df
+ //【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう
+ - https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html
+ // [GitHub] ブランチの保護設定を活用しよう 【レビューが通るまでマージさせんぞ】
+ - https://dev.classmethod.jp/articles/protect-branch/
  Git関連で資料があったら貼ってOKです
  */
 
