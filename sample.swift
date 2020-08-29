@@ -5,7 +5,7 @@ var name: String = "miyazawa"
 var age: Int = 21
 
 //メンバー
-enum learnjoyFC {
+enum LearnJoyFC {
     case nekokichi
     case kodou
     case shiratori
@@ -13,3 +13,6 @@ enum learnjoyFC {
     case miyazawa
     case takuma
 }
+
+let learnJoyFC = LearnJoyFC()
+print(learnJoyFC.nekokichi)
