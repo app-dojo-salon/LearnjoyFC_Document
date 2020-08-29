@@ -24,10 +24,7 @@ enum LearnJoyFC {
 let learnJoyFC = LearnJoyFC()
 print(learnJoyFC.nekokichi)
 
-// kodouテスト
-let member = LearnJoyFC.kodou
-print(member)
-
+print("レビューお願いします！")
 
 
 
