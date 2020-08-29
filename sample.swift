@@ -26,6 +26,12 @@ print(learnJoyFC.nekokichi)
 
 print("レビューお願いします！")
 
+/*　feature-nekokichi ブランチ　*/
+func display() {
+    print("complete feature-nekokichi branch")
+}
+/* */
+
 
 
 // ↑↑↑↑↑↑↑↑↑↑上を編集して下の項目をやってみてください↓↓↓↓↓↓↓↓↓↓↓
