@@ -24,7 +24,7 @@ enum LearnJoyFC {
 let learnJoyFC = LearnJoyFC()
 print(learnJoyFC.nekokichi)
 
-
+print("レビューお願いします！")
 
 
 
