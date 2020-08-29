@@ -3,6 +3,7 @@
 var name: String = "miyazawa"
 // MARK:- Torishima Commit
 var age: Int = 21
+var hobby: String = "Sports"
 
 //メンバー
 enum LearnJoyFC {
