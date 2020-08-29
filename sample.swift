@@ -4,10 +4,8 @@ var name: String = "miyazawa"
 // MARK:- Torishima Commit
 var age: Int = 21
 
-//こちらはmaster
-
 //メンバー
-enum learnjoyFC {
+enum LearnJoyFC {
     case nekokichi
     case kodou
     case shiratori
@@ -16,4 +14,6 @@ enum learnjoyFC {
     case takuma
 }
 
-//こちらはmaster
+// Instance
+let learnJoyFC = LearnJoyFC()
+print(learnJoyFC.nekokichi)
