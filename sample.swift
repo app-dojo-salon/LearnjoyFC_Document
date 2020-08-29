@@ -14,5 +14,6 @@ enum LearnJoyFC {
     case takuma
 }
 
+// Instance
 let learnJoyFC = LearnJoyFC()
 print(learnJoyFC.nekokichi)
