@@ -5,8 +5,8 @@ var name: String = "太郎"
 var age: Int = 21
 
 
-//宮澤です
-var name: String = "miyazawa"
+
+var name: String = "田中"
 // MARK:- Torishima Commit
 var age: Int = 21
 var hobby: String = "Sports"
