@@ -32,6 +32,10 @@ func display() {
 }
 /* */
 
+// feature-takuma ブランチ
+func test() {
+    print("feature-takuma branch test")
+}
 
 
 // ↑↑↑↑↑↑↑↑↑↑上を編集して下の項目をやってみてください↓↓↓↓↓↓↓↓↓↓↓
