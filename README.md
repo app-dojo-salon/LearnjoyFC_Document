@@ -11,3 +11,8 @@
 ## ミーティング資料
 
 - https://github.com/app-dojo-salon/learnjoy_fc_workspace/wiki/%E3%83%9F%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B0%E8%B3%87%E6%96%99
+
+## 使用ツール
+
+- Xcode
+- GitHub 　 desktop
