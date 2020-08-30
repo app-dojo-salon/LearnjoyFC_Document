@@ -15,4 +15,4 @@
 ## 使用ツール
 
 - Xcode
-- GitHub 　 desktop
+- GitHub desktop
