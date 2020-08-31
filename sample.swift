@@ -32,6 +32,8 @@ func display() {
 }
 /* */
 
+// feature test4　ブランチの変更
+
 // feature-takuma ブランチ
 func test() {
     print("feature-takuma branch test")
