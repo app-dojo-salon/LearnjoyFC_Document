@@ -31,7 +31,21 @@ func display() {
     print("complete feature-nekokichi branch")
 }
 /* */
+
 // feature test2ブランチ　変更
+
+// feature test5　ブランチの変更
+
+// feature test1ブランチの変更
+
+// feature test4　ブランチの変更
+
+// feature-takuma ブランチ
+func test() {
+    print("feature-takuma branch test")
+}
+
+
 
 
 // ↑↑↑↑↑↑↑↑↑↑上を編集して下の項目をやってみてください↓↓↓↓↓↓↓↓↓↓↓
