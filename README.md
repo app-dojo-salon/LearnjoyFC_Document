@@ -1,10 +1,10 @@
 #  ~ learnjoyFC ~
 ## チーム名の由来
-学ぶ（learn)　楽しむ(enjoy)　を合体
-learnjoy　
-アプリ道場のタイトルから抜粋して作った造語
-NekokichiさんのFirstCommitも合体
-結果
+学ぶ（learn)　楽しむ(enjoy)　を合体  
+learnjoy  　
+アプリ道場のタイトルから抜粋して作った造語  
+NekokichiさんのFirstCommitも合体  
+結果  
 learnjoyFC（サッカーチーム感ある）
 
 ## メンバ- 
