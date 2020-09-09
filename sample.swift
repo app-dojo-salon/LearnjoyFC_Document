@@ -42,7 +42,7 @@ func test() {
     print("feature-takuma branch test")
 }
 
-
+//feature/miyazawaブランチ追加
 
 // ↑↑↑↑↑↑↑↑↑↑上を編集して下の項目をやってみてください↓↓↓↓↓↓↓↓↓↓↓
 // やること
