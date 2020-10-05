@@ -11,3 +11,9 @@ for i in 0...10 {
     
 }
 print(sum)
+
+class People {
+    let name: String = ""
+    let age: Int = 0
+}
+
