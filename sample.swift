@@ -10,6 +10,9 @@ var name: String = "miyazawa"
 // MARK:- Torishima Commit
 var age: Int = 21
 
+var name: String = "oonishireon"
+var age: Int = 20
+
 //メンバー
 enum LearnJoyFC {
     case nekokichi
