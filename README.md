@@ -14,12 +14,12 @@ learnjoyFC（サッカーチーム感ある）
 - joji
 - reon
 
-- お休み中
-  - miyazawa
-  - Nekokichi
+お休み中
+- miyazawa
+- Nekokichi
 
-- 新規加入者確認事項
-  - https://scrapbox.io/app-dojo-salon/learnjoyFC%E3%80%80新規加入者確認事項
+新規加入者確認事項
+- https://scrapbox.io/app-dojo-salon/learnjoyFC%E3%80%80新規加入者確認事項
 
 ## 目的
 
