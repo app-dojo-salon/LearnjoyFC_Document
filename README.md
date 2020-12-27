@@ -8,11 +8,19 @@ NekokichiさんのFirstCommitも合体
 learnjoyFC（サッカーチーム感ある）
 
 ## メンバ- 
-- miyazawa
 - torishima
-- Nekokichi
 - kodou
 - takuma
+- joji
+- reon
+
+お休み中
+- miyazawa
+- Nekokichi
+
+新規加入者確認事項
+https://scrapbox.io/app-dojo-salon/learnjoyFC%E3%80%80新規加入者確認事項
+
 ## 目的
 
 - チーム開発を経験し、より実践的なスキルを身に付ける
