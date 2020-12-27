@@ -18,6 +18,7 @@ enum LearnJoyFC {
     case Torishima
     case miyazawa
     case takuma
+    case reon
 }
 
 // Instance
